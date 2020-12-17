@@ -30,4 +30,4 @@ management:
     health:
       show-details: always
 member:
-    username: abc
+    username: xyz
